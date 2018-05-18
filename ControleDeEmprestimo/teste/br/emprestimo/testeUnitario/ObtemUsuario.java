@@ -7,7 +7,6 @@ public class ObtemUsuario {
 		Usuario usuario = new Usuario();
 		usuario.setRa("121212");
 		usuario.setNome("Carlos Xavier");
-		
 		return usuario;
 	}
 }
